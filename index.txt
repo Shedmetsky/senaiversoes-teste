@@ -1,7 +1,6 @@
 <HTML>
 <HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
 <body>
-    <h1> GIT </h1>
-    <h1> VERSIONAMENTO </h1>
+    <h1> GIT - VERSIONAMENTO </h1>
 </body>
 </HTML>
